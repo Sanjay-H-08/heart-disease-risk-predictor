@@ -1,8 +1,8 @@
 # 🫀 Heart Disease Prediction using Custom Logistic Regression
-
+**🌟 Try the live app here:** [Click to open Heart Disease Predictor]([https://heart-disease-risk-predictor08.streamlit.app/])
 ## 🎯 Overview
 This project predicts the likelihood of heart disease based on clinical patient data. Rather than using pre-built black-box estimators, it features a **custom Logistic Regression model built from scratch** using NumPy, evaluated with custom evaluation tools, and deployed via an interactive **Streamlit** web app.
-**🌟 Try the live app here:** [Click to open Heart Disease Predictor]([https://heart-disease-risk-predictor08.streamlit.app/])
+
 ---
 
 ## 📊 Key EDA Insights
